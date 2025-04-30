@@ -1,12 +1,28 @@
-# React + Vite
+# React Theme Switcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Theme Switcher** built with **React.js**, **Vite**, and **Tailwind CSS**. It allows users to toggle between Light and Dark themes with a smooth UI experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Toggle between **Light** and **Dark** modes
+- Built with **Tailwind CSS** utility-first classes
+- Fast development with **Vite**
+- Fully responsive and mobile-friendly
+- Clean and maintainable code
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React.js](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Getting Started
+
+To run the project locally:
+
+```bash
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
